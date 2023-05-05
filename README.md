@@ -14,7 +14,7 @@
     <a href="mailto:hagerk720@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
     &nbsp;
   </p>
-  <p>You can <a href="https://hager-khaled.web.app/" target="_blank" rel="noopener noreferrer">visit my website</a> to learn more about me.</p>
+  <p>You can <a href="https://hager-khaled.web.app/" target="_blank" rel="noopener noreferrer">visit my website</a> to know more about me.</p>
 </div>
 
 
